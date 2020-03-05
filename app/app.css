@@ -1,0 +1,6 @@
+@import "~@nativescript/theme/css/core.compat.css";
+@import "~@nativescript/theme/css/blue.compat.css";
+
+.btn {
+    font-size: 18;
+}
